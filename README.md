@@ -17,6 +17,9 @@ Contact
 If you have any questions, suggestions, or feedback, feel free to contact me:
 
 Email: sameersarkate11@gmail.com
+
 LinkedIn: www.linkedin.com/in/sameer-sarkate-7b944a22a
+
 GitHub: https://github.com/sameer-sarkate-11
+
 Thank you for visiting the Machine Learning Projects Collection! We hope you find these projects useful and informative. Happy coding!
